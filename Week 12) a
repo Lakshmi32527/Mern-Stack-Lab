@@ -14,4 +14,4 @@ Decrease
 </div>
 );
 }
-export default App;
+
